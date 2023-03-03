@@ -22,7 +22,5 @@ public class ApacheComTest {
 
         output = StringUtils.reverse(input);
         System.out.println("Reversed: " + output);
-
-
     }
 }
